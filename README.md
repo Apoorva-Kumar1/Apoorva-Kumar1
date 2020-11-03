@@ -38,7 +38,7 @@ I am a Discord bot dev and i have made Akiro bot. If you dont know what akiro is
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-stats](https://github-readme-stats.vercel.app/api?username=Apoorva-Kumar1&show_icons=true&theme=merko)
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=Apoorva-Kumar1&show_icons=true&theme=merko)
 
 
 
