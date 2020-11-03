@@ -2,7 +2,7 @@
 
 #### I am Akiro Bot Dev
 
-![I am Akiro Bot Dev](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Akiro Bot 
 
 I am a Discord bot dev and i have made Akiro bot. If you dont know what akiro is its a discord bot which i am currently working on.
 
