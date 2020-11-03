@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Apoorva
 
-#### I am Akiro Bot Dev
+#### I am the Creator Of Akiro Bot
 
-I am the creator of Akiro Bot 
+<img src="https://tenor.com/view/goku-thumbs-up-dbz-good-super-saiyan-gif-4862433">
 
 I am a Discord bot dev and i have made Akiro bot. If you dont know what akiro is its a discord bot which i am currently working on.
 
