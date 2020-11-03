@@ -2,7 +2,7 @@
 
 #### I am the Creator Of Akiro Bot
 
-<img src="https://paradisebots.net/bots/741670722245623929/widget" width="600"/>
+<img src="https://github.com/Apoorva-Kumar1/Aoi/blob/master/giphy.gif" width="600"/>
 
 About me - I am a Interdimeate Coder and made a Bot named Akiro. Akiro is a Discord Bot which i am currently working on and till now i have made 10+ functional commands. The image above this is the Stats of my bot from a bot listing website just remove the /widget from the link to vote and invite my bot ☝.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
