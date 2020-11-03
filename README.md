@@ -2,7 +2,7 @@
 
 #### I am the Creator Of Akiro Bot
 
-<img src="https://github.com/Apoorva-Kumar1/Aoi/blob/master/tenor%20(1).gif" width-"500">
+<img src="https://github.com/Apoorva-Kumar1/Aoi/blob/master/tenor%20(1).gif" width-"500"/>
 
 I am a Discord bot dev and i have made Akiro bot. If you dont know what akiro is its a discord bot which i am currently working on.
 
