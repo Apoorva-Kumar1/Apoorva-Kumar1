@@ -6,7 +6,7 @@
 
 I am a Discord bot dev and i have made Akiro bot. If you dont know what akiro is its a discord bot which i am currently working on.
 
-Skills: JS <img src="https://github.com/Apoorva-Kumar1/Aoi/blob/master/images.png" width="50"/>
+#### Skills: JS <img src="https://github.com/Apoorva-Kumar1/Aoi/blob/master/images.png" width="50"/>
 
 - 🔭 I’m currently working on Akiro 
 
