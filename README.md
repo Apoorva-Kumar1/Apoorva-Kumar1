@@ -4,7 +4,7 @@
 
 <img src="https://github.com/Apoorva-Kumar1/Aoi/blob/master/giphy.gif" width="600"/>
 
-About me - I am a Interdimeate Coder and made a Bot named Akiro. Akiro is a Discord Bot which i am currently working on and till now i have made 10+ functional commands. The image above this is the Stats of my bot from a bot listing website just remove the /widget from the link to vote and invite my bot ☝.
+About me - I am a Interdimeate Coder and made a Bot named Akiro. Akiro is a Discord Bot which i am currently working on and till now i have made 10+ functional commands.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -44,6 +44,7 @@ My Github Badges!
  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/api/oauth2/authorize?client_id=741670722245623929&permissions=1341258999&scope=bot)  
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=Apoorva-Kumar1&show_icons=true&theme=merko)
 
 
