@@ -44,6 +44,10 @@ My Github Badges!
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/gDytBhC)
+
+
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=Apoorva-Kumar1&show_icons=true&theme=merko)
 
 
