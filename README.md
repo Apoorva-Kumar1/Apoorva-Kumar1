@@ -34,7 +34,9 @@ About me - I am a Interdimeate Coder and made a Bot named Akiro. Akiro is a Disc
 
 #### Meet me at these Sites!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Apoorva-Kumar1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/apoorva_.kumar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/n3cy_-) 
+### [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Apoorva-Kumar1) Github
+### [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/apoorva_.kumar/) Instagram
+### [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/n3cy_-) Reddit 
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
