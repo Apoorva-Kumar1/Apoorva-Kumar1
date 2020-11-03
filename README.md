@@ -44,7 +44,11 @@ My Github Badges!
  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/api/oauth2/authorize?client_id=741670722245623929&permissions=1341258999&scope=bot)  
+
+#### Click 👇 to invite Akiro in your server!
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/api/oauth2/authorize?client_id=741670722245623929&permissions=1341258999&scope=bot)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=Apoorva-Kumar1&show_icons=true&theme=merko)
 
 
