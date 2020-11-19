@@ -56,15 +56,14 @@ My Github Badges!
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Apoorva-Kumar1}/count.svg" alt="Apoorva-Kumar1 :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:(including privates) </h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorva-Kumar1&langs_count=10&theme=tokyonight&layout=compact" alt="Apoorva-Kumar1 :: Top Langs" /></p>
-
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Apoorva-Kumar1&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645
 
 
 
