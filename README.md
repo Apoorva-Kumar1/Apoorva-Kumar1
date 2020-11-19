@@ -51,7 +51,13 @@ My Github Badges!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/api/oauth2/authorize?client_id=741670722245623929&permissions=1341258999&scope=bot)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=Apoorva-Kumar1&show_icons=true&theme=merko)
+
 
 
 
