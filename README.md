@@ -61,9 +61,11 @@ My Github Badges!
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Apoorva-Kumar1&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
 
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.GOKU.vercel.app/api/spotify)](https://open.spotify.com/user/	49s28ie92npsbtxc4du70o74d)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
 
 
