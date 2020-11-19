@@ -60,7 +60,9 @@ My Github Badges!
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorva-Kumar1&langs_count=10&theme=tokyonight&layout=compact" alt="Apoorva-Kumar1 :: Top Langs" /></p>
 
-<p align="center"> ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=Apoorva-Kumar1&show_icons=true&theme=merko) </p>
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Apoorva-Kumar1&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
 
 
