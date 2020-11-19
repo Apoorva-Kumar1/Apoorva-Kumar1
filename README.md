@@ -56,7 +56,7 @@ My Github Badges!
 
 <p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="Apoorva-Kumar1 :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="center">Top langs :tongue:</h4> (including privates)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="Apoorva-Kumar1 :: Top Langs" /></p>
 
