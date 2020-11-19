@@ -65,7 +65,7 @@ My Github Badges!
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=49s28ie92npsbtxc4du70o74d&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=49s28ie92npsbtxc4du70o74d&cover_image=true&theme=default)]])
 
 
 
