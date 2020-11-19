@@ -65,8 +65,7 @@ My Github Badges!
 
 ### Spotify Playing 🎧
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=49s28ie92npsbtxc4du70o74d&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=49s28ie92npsbtxc4du70o74d&cover_image=true&theme=default)]])
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=49s28ie92npsbtxc4du70o74d&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
 
