@@ -56,11 +56,11 @@ My Github Badges!
 
 <p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="Apoorva-Kumar1 :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:(including privates) /> </h4>
+<h4 align="center">Top langs :tongue:(including privates) </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="Apoorva-Kumar1 :: Top Langs" /></p>
 
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=Apoorva-Kumar1&show_icons=true&theme=merko)
+<center> ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=Apoorva-Kumar1&show_icons=true&theme=merko) </center>
 
 
 
