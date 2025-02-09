@@ -1,5 +1,4 @@
-### Hi there 👋, I am Apoorva. (avnika ka bf bhi hun, m
-old profile h ye btw)
+### Hi there 👋, I am Apoorva. (vernica ka bf bhi hun, old profile h ye btw)
 
 #### I am the Creator Of Akiro Bot
 
